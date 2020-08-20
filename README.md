@@ -26,4 +26,4 @@ If so, we want to hear from you.
 4. Submit a pull request against this upstream repository.
 
 # Questions?
-File an issue in this repository.
+File an issue in this repository
