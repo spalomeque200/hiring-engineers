@@ -1,6 +1,7 @@
 Prerequisites - Setup the environment
 Please check the screenshot under file name below
 install_ubuntu1.png
+
 ubuntu2.png
 ubuntu3.png
 
